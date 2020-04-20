@@ -38,7 +38,7 @@ To monitor and manage your application
 |`http://localhost:8080/portfolio/idPorfolio`          | GET  |
 |`http://localhost:8080/portfolio/`                    | POST |
 |`http://localhost:8080/portfolios/`                   | POST |
-|`http://localhost:8080/user/{idPortfolio}`            | GET  |
+|`http://localhost:8080/user/idPortfolio`              | GET  |
 
 
 ### GET /portfolio/[idPortfolio]
